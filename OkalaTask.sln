@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35017.193
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkalaTask", "OkalaTask.csproj", "{DF98D625-4025-40B2-BD11-F5B0542B8528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OkalaTask", "OkalaTask.csproj", "{DF98D625-4025-40B2-BD11-F5B0542B8528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoQuoteApp", "..\CryptoQuoteApp\CryptoQuoteApp.csproj", "{BFEFA5CE-E97F-483C-82ED-F6EA91E2664A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoQuoteApp", "CryptoQuoteApp\CryptoQuoteApp.csproj", "{FA177844-F490-430B-8B97-0E64258602C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DF98D625-4025-40B2-BD11-F5B0542B8528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF98D625-4025-40B2-BD11-F5B0542B8528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF98D625-4025-40B2-BD11-F5B0542B8528}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BFEFA5CE-E97F-483C-82ED-F6EA91E2664A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BFEFA5CE-E97F-483C-82ED-F6EA91E2664A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BFEFA5CE-E97F-483C-82ED-F6EA91E2664A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BFEFA5CE-E97F-483C-82ED-F6EA91E2664A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA177844-F490-430B-8B97-0E64258602C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA177844-F490-430B-8B97-0E64258602C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA177844-F490-430B-8B97-0E64258602C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA177844-F490-430B-8B97-0E64258602C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="CryptoQuoteApp\**" />
+    <Content Remove="CryptoQuoteApp\**" />
+    <EmbeddedResource Remove="CryptoQuoteApp\**" />
+    <None Remove="CryptoQuoteApp\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Moq" Version="4.20.72" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
