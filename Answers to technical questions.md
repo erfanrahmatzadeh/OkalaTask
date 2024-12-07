@@ -3,11 +3,11 @@ I spent approximately 6 hours on the task. If I had more time, I would add user 
 
 2. What was the most useful feature that was added to the latest version of your language of choice?
 One of the most useful features in C# is global using directives, introduced in C# 10. This feature helps simplify code by eliminating repetitive using statements across multiple files.
-
+```
 global using System;
 global using System.Collections.Generic;
 global using System.Threading.Tasks;
-
+```
 3. How would you track down a performance issue in production? Have you ever had to do this?
 To track down performance issues in production, I typically:
 
@@ -33,6 +33,7 @@ Adhering to best practices.
 It also provided an opportunity to showcase additional skills like performance testing and designing secure solutions. I believe it aligns well with the technical requirements of the role.
 
 6. Please, describe yourself using JSON.
+```
 {
   "name": "Erfan Rahmatzadeh",
   "age": 22,
@@ -43,3 +44,4 @@ It also provided an opportunity to showcase additional skills like performance t
   },
   "availability": "Open to work"
 }
+```
